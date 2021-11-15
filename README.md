@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kaho</h1>
 <h3 align="center">A frontend developer and a passionate learner</h3>
 
-- 🔭 I’m currently working on [Senpai Kohai](https://github.com/shiv-chan/senpai-kohai)
+- 🔭 I’m currently working on [Senpai Kohai](https://github.com/shiv-chan/senpai-kohai) and [Seattle DJ](https://github.com/chingu-voyages/v35-geckos-team-08)
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Node.js, Tailwind, Material UI**
+- 🌱 I’m currently learning **TypeScript, Next.js, Node.js, MongoDB, Tailwind, Material UI**
 
 - 👨‍💻 All of my projects are available at [https://kahoshibuya.dev/](https://kahoshibuya.dev/)
 
