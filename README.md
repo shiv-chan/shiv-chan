@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Kaho</h1>
+<!--<h1 align="center">Hi 👋, I'm Kaho</h1>
 <h3 align="center">A frontend developer and a passionate learner</h3>
 
 - 🔭 I’m currently working on [Senpai Kohai](https://github.com/shiv-chan/senpai-kohai) and [Seattle DJ](https://github.com/chingu-voyages/v35-geckos-team-08)
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  </p>
+  </p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv-chan&show_icons=true&locale=en" alt="shiv-chan" /></p>
 
 
